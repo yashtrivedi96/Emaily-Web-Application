@@ -1,0 +1,4 @@
+How to install the nodejs application:
+1. Install Node from their website.
+2. Run npm start.
+3. Enjoy!!!
